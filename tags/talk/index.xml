@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk on agusit</title>
+    <link>http://agusit7.github.io/tags/talk/</link>
+    <description>Recent content in talk on agusit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Nov 2020 23:44:04 +0200</lastBuildDate><atom:link href="http://agusit7.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MLconf 2020 session: AI for the conservation of the African lion</title>
+      <link>http://agusit7.github.io/posts/lion-ai-tak/</link>
+      <pubDate>Fri, 06 Nov 2020 23:44:04 +0200</pubDate>
+      
+      <guid>http://agusit7.github.io/posts/lion-ai-tak/</guid>
+      <description>Video recording Link to heading LINC website Link to heading About the session Link to heading Panthera leo (the African lion) is now an endangered species. Over the last 20 years approximately 42% of its habitat has been lost, creating fragmented populations across the African continent. The accurate monitoring of lion populations and a better understanding of the connectivity between them is critical to maintaining the genetic viability of these increasingly isolated populations.</description>
+    </item>
+    
+  </channel>
+</rss>
